@@ -360,7 +360,7 @@ function enterFS(element, secondElement) {
         isFullScreen = true;
     }
 }
-;
+
 let currentFullScreen = '';
 function enterFullScreen(id) {
     currentFullScreen = id;
